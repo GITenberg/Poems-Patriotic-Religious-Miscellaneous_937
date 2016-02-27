@@ -1,0 +1,30 @@
+_repo: Poems-Patriotic-Religious-Miscellaneous_937
+creator:
+  author:
+    agent_name: Ryan, Abram Joseph
+    aliases:
+    - Ryan, Father (Abram Joseph)
+    - Ryan, A. J. (Abram Joseph)
+    - Father Ryan
+    birthdate: 1839
+    deathdate: 1886
+    gutenberg_agent_id: '482'
+    url: http://www.gutenberg.org/2009/agents/482
+    wikipedia: http://en.wikipedia.org/wiki/Abram_J._Ryan
+description: ''
+gutenberg_issued: '1997-06-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '937'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'United States -- History -- Civil War, 1861-1865 -- Poetry'
+- !lcsh 'American poetry -- 19th century'
+- !lcsh 'Patriotism -- Poetry'
+- !lcsh 'Religion -- Poetry'
+- !lcc 'PS'
+title: 'Poems: Patriotic, Religious, Miscellaneous'
+url: http://www.gutenberg.org/ebooks/937
